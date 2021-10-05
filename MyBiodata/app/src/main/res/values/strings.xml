@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyBiodata</string>
+    <string name="Indonesia">Indonesia</string>
+    <string name="Inggris">Inggris</string>
+    <string name="Malaysia">Malaysia</string>
+    <string name="Amerika">Amerika</string>
+    <string name="Singapura">Singapura</string>
+    <string name="Arab">Arab</string>
+    <string name="Filiphina">Filiphina</string>
+    <string name="Korea">Korea</string>
+
+    <string-array name="negaraAsal">
+        <item>Indonesia</item>
+        <item>Inggris</item>
+        <item>Malaysia</item>
+        <item>Amerika</item>
+        <item>Singapura</item>
+        <item>Arab</item>
+        <item>Filiphina</item>
+        <item>Korea</item>
+    </string-array>
+</resources>
